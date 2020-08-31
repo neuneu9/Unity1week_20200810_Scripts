@@ -1,0 +1,2 @@
+# Unity1week_20200810_Scripts
+unity1week参加作品「増えてプラナリア」のスクリプトになります
